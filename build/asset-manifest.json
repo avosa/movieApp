@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/avosa/movieApp/static/css/main.584f321a.chunk.css",
+    "main.js": "/avosa/movieApp/static/js/main.b1b80742.chunk.js",
+    "main.js.map": "/avosa/movieApp/static/js/main.b1b80742.chunk.js.map",
+    "runtime~main.js": "/avosa/movieApp/static/js/runtime~main.2a00618e.js",
+    "runtime~main.js.map": "/avosa/movieApp/static/js/runtime~main.2a00618e.js.map",
+    "static/css/2.1fa805dd.chunk.css": "/avosa/movieApp/static/css/2.1fa805dd.chunk.css",
+    "static/js/2.38710af1.chunk.js": "/avosa/movieApp/static/js/2.38710af1.chunk.js",
+    "static/js/2.38710af1.chunk.js.map": "/avosa/movieApp/static/js/2.38710af1.chunk.js.map",
+    "index.html": "/avosa/movieApp/index.html",
+    "precache-manifest.ede0d282f63e1bfd095c4e0a6ca2081f.js": "/avosa/movieApp/precache-manifest.ede0d282f63e1bfd095c4e0a6ca2081f.js",
+    "service-worker.js": "/avosa/movieApp/service-worker.js",
+    "static/css/2.1fa805dd.chunk.css.map": "/avosa/movieApp/static/css/2.1fa805dd.chunk.css.map",
+    "static/css/main.584f321a.chunk.css.map": "/avosa/movieApp/static/css/main.584f321a.chunk.css.map",
+    "static/media/semantic.min.css": "/avosa/movieApp/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
